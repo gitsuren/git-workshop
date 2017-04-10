@@ -249,7 +249,7 @@ $> git show --oneline
 * Explore the history of a repo
 
 ```bash
-$> git clone https://github.com/bable5/git-workshop.git
+$> git clone https://github.com/gitsuren/git-workshop.git
 ```
 
 * Look at recent commits
