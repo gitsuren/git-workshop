@@ -8,8 +8,8 @@
 ```bash
 $> git config --global --list
 
-$> git config --global user.name "John Doe"
-$> git config --global user.email "johndoe@gmail.com"
+$> git config --global user.name "Surendra Bajracharya"
+$> git config --global user.email "bajracharya.surendra@gmail.com"
 ```
 
 
@@ -29,8 +29,8 @@ $> git config --global color.ui auto
 
 ```bash
 [user]
-    name = Sean Mooney
-    email = bable4@gmail.com
+    name = Surendra Bajracharya
+    email = bajracharya.surendra@gmail.com
 ```
 
 <aside class="notes">
