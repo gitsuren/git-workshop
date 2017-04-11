@@ -30,7 +30,7 @@
   in an order that makes logical sense.
 
 <aside class="notes">
-Talk about how Surendra and I work at Deere
+Talk about how the previous work history looks like
 </aside>
 
 
@@ -44,4 +44,6 @@ Talk about how Surendra and I work at Deere
 <li> Can be anywhere. Local directory, remote server </li>
 </ul>
 </aside>
+
+## Thannk you!!!
 
