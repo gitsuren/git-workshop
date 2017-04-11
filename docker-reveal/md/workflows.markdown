@@ -45,5 +45,5 @@ Talk about how the previous work history looks like
 </ul>
 </aside>
 
-## Thannk you!!!
+## Thank you!!!
 
